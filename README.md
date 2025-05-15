@@ -1,4 +1,4 @@
-# DFE2
+# DFE2_Pythonscripts_inp_live
 
 This is the live repository which contains Python scripts to set up Direct FE2 analysis input files. It will be continuously updated as user-friendly scripts for various Direct FE2 models are developed and shared. 
 
