@@ -24,3 +24,7 @@ This documents contains a list of all Direct FE2 references.
 20) Zhao, H., Zheng, X., Yang, S., Yang, X. and Li, W., 2024. Direct FE2 multiscale simulation of hydrogen diffusion in Zircaloy cladding. Acta Mechanica Sinica, 40(12), pp.1-14.
 21) Lan, Y., Ma, L., Du, X. and Zhou, W., 2024. Multiscale Simulation of the Coupled Chemo-Mechanical Behavior of Porous Electrode Materials by Direct FE2 Method. International Journal of Applied Mechanics, 16(3), p.2450039.
 22) Cui, Y. and Zhang, Z., 2025. A novel concurrent multiscale method based on the coupling of Direct FE2 and CPFEM. Thin-Walled Structures, 206, p.112610.
+23) Zhao, A., Li, P., Liu, K. and Cui, Y., 2025. Topology optimization design of frame structures based on the Direct FE2 method. Materials & Design, p.114091.
+24) Du, J.P. and Chen, J.F., 2025. Direct FE2 multiscale method for modeling the three-dimensional elastoplastic behavior of composite laminates. Composites Communications, p.102422.
+25) Gao, T., Liu, K., Ma, Q., Ding, J., Hu, Z., Wei, K., Song, X., Li, Z. and Wang, Z., 2025. Unveiling the mechanics of micro-LPBF manufactured hierarchical composites: a novel FE2-nested homogenisation approach. Virtual and Physical Prototyping, 20(1), p.e2456693.
+26) Liu, K., Tian, L., Gao, T., Wang, Z. and Li, P., 2025. An explicit D-FE2 method for transient multiscale analysis. International Journal of Mechanical Sciences, 285, p.109808.
