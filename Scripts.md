@@ -8,6 +8,6 @@ RVE - rectangular (2D) or cuboidal (3D) geometry; perfectly periodic mesh
 
 | Name | Dimension | Macro element | RVE element | Additional details |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
-| DFE2_2D_Quad_QuadTri.py | 2D | Quadrilateral | Quadrilateral or triangle | - |
-| DFE2_3D_Hex_HexTetWedge.py | 3D | Hexahedral | Hexahedral, wedge or tetrahedral | - |
+| DFE2_2D_Quad-Lin_QuadTri.py | 2D | Quadrilateral - linear | Quadrilateral or triangle | - |
+| DFE2_3D_Hex-Lin_HexTetWedge.py | 3D | Hexahedral - linear | Hexahedral, wedge or tetrahedral | - |
 
