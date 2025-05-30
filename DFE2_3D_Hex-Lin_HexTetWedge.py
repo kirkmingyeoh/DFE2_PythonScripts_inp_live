@@ -999,6 +999,7 @@ Merge with quadratic macroscale? Probably not a good idea, better to split up
 Merge the RVE and MPC loops?
 When printing RVE Parts, skip Sections and go straight till the *End Part
 Missing comments 'Left and right faces' and 'Bottom and top faces' when sorting and pairing RVE nodes
+Comments for left-right PBC and bottom-top PBC need some revision
 Instead of using Exclude nodes, which require looped floating point comparisons, can we just exclude face nodes from pairing if they are in an edge list? 
 Any way to generalise the number of nodes and GP per element?
 '''
