@@ -639,7 +639,7 @@ for n_macro_eles in range(N_macro_eles): # Loop through all macroscale elements
         N_GloDeriv = [[],[],[],[],[],[],[],[]] # List to store shape function gradients wrt to x, y and z
 
         # Calculate shape function gradients along x, y and z directions
-         # Obtained by multiplying the inverse of the Jacobian matrix with the shape function gradients wrt to tsi, eta and zeta
+        # Obtained by multiplying the inverse of the Jacobian matrix with the shape function gradients wrt to tsi, eta and zeta
         for n_macroele_nodes in range(8): # Loop through all nodes of the macroscale element
             N_GloDeriv[n_macroele_nodes] = np.dot(J_inv,np.transpose(np.array(N_NatDeriv[n_macroele_nodes]))) # Matrix multiplication between the inverse of the Jacobian matrix and shape function gradients wrt tsi, eta and zeta
         
@@ -1000,6 +1000,7 @@ Merge the RVE and MPC loops?
 When printing RVE Parts, skip Sections and go straight till the *End Part
 Missing comments 'Left and right faces' and 'Bottom and top faces' when sorting and pairing RVE nodes
 Instead of using Exclude nodes, which require looped floating point comparisons, can we just exclude face nodes from pairing if they are in an edge list? 
+Any way to generalise the number of nodes and GP per element?
 '''
 
 
