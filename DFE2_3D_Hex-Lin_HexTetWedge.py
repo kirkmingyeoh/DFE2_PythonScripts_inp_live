@@ -998,6 +998,7 @@ Relabel J as J^T for better clarity
 Merge with quadratic macroscale? Probably not a good idea, better to split up
 Merge the RVE and MPC loops?
 When printing RVE Parts, skip Sections and go straight till the *End Part
+Missing comments 'Left and right faces' and 'Bottom and top faces' when sorting and pairing RVE nodes
 '''
 
 
